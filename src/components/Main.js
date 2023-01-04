@@ -17,7 +17,6 @@ function Main() {
             c+=1
         }
         setCount(c)
-        console.log(c)
     }
     useEffect(()=>{
         const pid = setInterval(
